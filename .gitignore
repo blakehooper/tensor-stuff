@@ -1,1 +1,6 @@
 .idea
+udacity/notMNIST_large
+udacity/notMNIST_small
+udacity/notMNIST.pickle
+udacity/notMNIST_large.tar.gz
+udacity/notMNIST_small.tar.gz
